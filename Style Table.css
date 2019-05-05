@@ -1,0 +1,46 @@
+.container {
+    text-align: center;
+    padding: 12.5px;
+}
+
+#inputData {
+    width: 300px;
+    text-align: left;
+}
+
+table {
+    margin-left: 10px;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#col7,
+#col8 {
+    width: 100px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#col13,
+#col14 {
+    width: 100px;
+    padding-left: 100px;
+    padding-right: 90px;
+}
+
+.navbar {
+
+    background-image: url("119136-popular-hd-real-space-wallpapers-1080p-1920x1200-for-android-40.jpg");
+    background-size: cover;
+
+}
